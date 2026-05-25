@@ -1,2 +1,6 @@
 this is updated at feature 
+<<<<<<< HEAD
 master
+=======
+2nd
+>>>>>>> feature-3
